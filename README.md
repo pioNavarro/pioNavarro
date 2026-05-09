@@ -19,7 +19,6 @@ I am a results-driven **Full Stack Developer** specializing in building scalable
 - 🔭 **Current Project:** Building reactive Sales & Inventory systems using **Laravel 12** and **Livewire 4**.
 - 📱 **Mobile Expertise:** Architecting robust mobile solutions with **React Native**.
 - 🛠️ **Problem Solver:** Deep experience in WordPress hooks, API migrations, and database optimization (FIFO logic).
-- ☁️ **Fun Fact:** When I'm not coding, I'm likely optimizing solar energy setups or tinkering with vehicle electronics.
 
 ---
 
